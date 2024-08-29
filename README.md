@@ -1,0 +1,4 @@
+- New developer
+- Working on learning new technologies and making new projects
+- Good with C++, PHP and respective frameworks
+- Learning more Python, JS and libraries/frameworks
