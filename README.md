@@ -4,6 +4,6 @@
 ## Hi 👋 
 I'm a student/up and coming developer doing their hardest to work on new projects and reach new heights in the scene. Feel free to contact me for any questions regarding my projects, if you would like to collaborate or simply want to chat. 
 
-- ⚡ Somewhat proficient in: C++, PHP, Rust and several frameworks/technologies.
-- 🛠 Currently working on AriusFM, osu! related projects, a PC game and some other personal projects.
-- 🔍 Currently learning Python, Javascript and respective libraries/frameworks.
+- ⚡ Somewhat proficient in: C++, PHP/JavaScript, Rust, Python and several frameworks/technologies.
+- 🛠 Currently working on multiple projects including a Twitter Bot, some osu! projects and a game
+- 🔍 Currently improving on skills mentioned above
